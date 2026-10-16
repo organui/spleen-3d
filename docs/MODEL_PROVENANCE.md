@@ -12,7 +12,7 @@ That copy states the data license as **Creative Commons Attribution-Share Alike 
 
 ### Why this differs from the other explorers
 
-The heart, brain, lungs, liver and kidney explorers use BodyParts3D 4.0 downloaded directly from the [official DBCLS archive](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html), whose current license page grants CC BY 4.0. The environment this explorer was built in could not reach that archive, so it uses the GitHub copy above instead. Following the heart explorer's rule of relying on the terms attached to the copy actually downloaded, this explorer uses the share-alike license. Re-preparing the same concepts from the official 4.0 archive would let the model move to CC BY 4.0 like its siblings; that would be a model change to review, not a relabelling.
+The heart, brain, liver and kidney explorers use BodyParts3D 4.0 downloaded directly from the [official DBCLS archive](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html), whose current license page grants CC BY 4.0. The lungs explorer, like this one, uses a GitHub copy and CC BY-SA 2.1 Japan. The environment this explorer was built in could not reach that archive, so it uses the GitHub copy above instead. Following the heart explorer's rule of relying on the terms attached to the copy actually downloaded, this explorer uses the share-alike license. Re-preparing the same concepts from the official 4.0 archive would let the model move to CC BY 4.0 like the heart explorer; that would be a model change to review, not a relabelling.
 
 Authoritative sources:
 

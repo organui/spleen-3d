@@ -56,7 +56,7 @@ The app is static and uses relative build paths. `dist/` can be hosted on any st
 
 > BodyParts3D, © The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan.
 
-The model is a curated subset of **BodyParts3D 3.0**, taken from the STL copy in [Kevin-Mattheus-Moerman/BodyParts3D](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) on **16 October 2026**. That copy carries **CC BY-SA 2.1 Japan**, so the adapted `spleen.glb` is shared under the same license, separately from this repository's **MIT code license**. The other OrganUI explorers use BodyParts3D 4.0 from the official archive under CC BY 4.0; [model provenance](docs/MODEL_PROVENANCE.md) explains the difference and how to move to that source.
+The model is a curated subset of **BodyParts3D 3.0**, taken from the STL copy in [Kevin-Mattheus-Moerman/BodyParts3D](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) on **16 October 2026**. That copy carries **CC BY-SA 2.1 Japan**, so the adapted `spleen.glb` is shared under the same license, separately from this repository's **MIT code license**. The heart, brain, liver and kidney explorers use BodyParts3D 4.0 from the official archive under CC BY 4.0; [model provenance](docs/MODEL_PROVENANCE.md) explains the difference and how to move to that source.
 
 Read [model provenance and preparation](docs/MODEL_PROVENANCE.md), [asset attribution](public/models/ATTRIBUTION.md), and the [checksum manifest](public/models/manifest.json). Fonts are bundled under the SIL Open Font License; [third-party notices](public/licenses/README.md) are included in the production output.
 
