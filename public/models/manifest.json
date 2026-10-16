@@ -1,0 +1,215 @@
+{
+  "dataset": "BodyParts3D",
+  "version": "3.0 (20110915)",
+  "variant": "BodyParts3D_3.0_obj_95 converted to binary STL by the Kevin-Mattheus-Moerman/BodyParts3D mirror",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "credit": "BodyParts3D, © The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+  "inputs": [
+    {
+      "file": "parts_list_e.txt",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/parts_list_e.txt",
+      "sha256": "824a34ed939a53375037d0d68b88ad2b63b1f0ae15a585632af2a63c2ab2e4af"
+    },
+    {
+      "file": "FMA7196.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7196.stl",
+      "sha256": "72c0248b1e35490c66a0d0bde0ecdde6a362f3940a5bb6d3e770718ff5eeb94a"
+    },
+    {
+      "file": "FMA14773.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA14773.stl",
+      "sha256": "dff6e8f727071fbb75e2faa6d738f67c1b95117a5c7fb1ad3deb65eaa681ea14"
+    },
+    {
+      "file": "FMA14331.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA14331.stl",
+      "sha256": "101efccfdb587cf27fb4e721e44ea5af182dd0ad012750266a74044aca018e6a"
+    },
+    {
+      "file": "FMA50737.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA50737.stl",
+      "sha256": "d48e9dea1d611eef116062144e4078c274909695e90c0619262fbc83e9ab162c"
+    },
+    {
+      "file": "FMA14332.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA14332.stl",
+      "sha256": "695e872141ce8fd560246ef8c351268d4987cda2ac46df4a6d37b38183936e94"
+    },
+    {
+      "file": "FMA7148.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7148.stl",
+      "sha256": "a6764d20879cf7ba1acd8284c1b0255b20111d8bd3b92838cf97600e6f3d9065"
+    },
+    {
+      "file": "FMA7198nsn.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7198nsn.stl",
+      "sha256": "884948a0b7f2b274dd67ede43fd1d0aaacc6657451ff0de7eeb0063d261fa4ca"
+    },
+    {
+      "file": "FMA7205.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7205.stl",
+      "sha256": "b93be6a9ef9fa237bb1231b5c895cd938b25920266bb1400537b4319f4a35cdb"
+    },
+    {
+      "file": "FMA15630.stl",
+      "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA15630.stl",
+      "sha256": "b13f1d7441cbada25aeb9b076e72f9ed26f2b64d1907c9be24ec7f1c95ea90b8"
+    }
+  ],
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -52.45159912109375,
+        -195.54100036621094,
+        1014.6300048828125
+      ],
+      "max": [
+        116.42500305175781,
+        -48.20790100097656,
+        1181.8699951171875
+      ]
+    },
+    "centerMm": [
+      31.98670196533203,
+      -121.87445068359375,
+      1098.25
+    ],
+    "scale": 0.02,
+    "axes": "[x, z, -y]"
+  },
+  "runtime": {
+    "file": "spleen.glb",
+    "bytes": 1695732,
+    "sha256": "95d5d2478c0e466301c6a417e9360d1172e9444f552c87df1cd15a1122ecc7a1"
+  },
+  "structures": [
+    {
+      "id": "spleen",
+      "fma": "FMA7196",
+      "sourceName": "spleen",
+      "sources": [
+        {
+          "element": "FMA7196",
+          "sha256": "72c0248b1e35490c66a0d0bde0ecdde6a362f3940a5bb6d3e770718ff5eeb94a",
+          "bytes": 450884,
+          "vertices": 4510,
+          "triangles": 9016
+        }
+      ]
+    },
+    {
+      "id": "splenic-artery",
+      "fma": "FMA14773",
+      "sourceName": "splenic artery",
+      "sources": [
+        {
+          "element": "FMA14773",
+          "sha256": "dff6e8f727071fbb75e2faa6d738f67c1b95117a5c7fb1ad3deb65eaa681ea14",
+          "bytes": 166384,
+          "vertices": 1665,
+          "triangles": 3326
+        }
+      ]
+    },
+    {
+      "id": "splenic-vein",
+      "fma": "FMA14331",
+      "sourceName": "splenic vein",
+      "sources": [
+        {
+          "element": "FMA14331",
+          "sha256": "101efccfdb587cf27fb4e721e44ea5af182dd0ad012750266a74044aca018e6a",
+          "bytes": 67684,
+          "vertices": 678,
+          "triangles": 1352
+        }
+      ]
+    },
+    {
+      "id": "celiac-trunk",
+      "fma": "FMA50737",
+      "sourceName": "celiac artery",
+      "sources": [
+        {
+          "element": "FMA50737",
+          "sha256": "d48e9dea1d611eef116062144e4078c274909695e90c0619262fbc83e9ab162c",
+          "bytes": 22784,
+          "vertices": 229,
+          "triangles": 454
+        }
+      ]
+    },
+    {
+      "id": "superior-mesenteric-vein",
+      "fma": "FMA14332",
+      "sourceName": "superior mesenteric vein",
+      "sources": [
+        {
+          "element": "FMA14332",
+          "sha256": "695e872141ce8fd560246ef8c351268d4987cda2ac46df4a6d37b38183936e94",
+          "bytes": 10184,
+          "vertices": 103,
+          "triangles": 202
+        }
+      ]
+    },
+    {
+      "id": "stomach",
+      "fma": "FMA7148",
+      "sourceName": "stomach",
+      "sources": [
+        {
+          "element": "FMA7148",
+          "sha256": "a6764d20879cf7ba1acd8284c1b0255b20111d8bd3b92838cf97600e6f3d9065",
+          "bytes": 469284,
+          "vertices": 4694,
+          "triangles": 9384
+        }
+      ]
+    },
+    {
+      "id": "pancreas",
+      "fma": "FMA7198",
+      "sourceName": "pancreas, nsn",
+      "sources": [
+        {
+          "element": "FMA7198nsn",
+          "sha256": "884948a0b7f2b274dd67ede43fd1d0aaacc6657451ff0de7eeb0063d261fa4ca",
+          "bytes": 570784,
+          "vertices": 5711,
+          "triangles": 11414
+        }
+      ]
+    },
+    {
+      "id": "left-kidney",
+      "fma": "FMA7205",
+      "sourceName": "left kidney",
+      "sources": [
+        {
+          "element": "FMA7205",
+          "sha256": "b93be6a9ef9fa237bb1231b5c895cd938b25920266bb1400537b4319f4a35cdb",
+          "bytes": 767984,
+          "vertices": 7681,
+          "triangles": 15358
+        }
+      ]
+    },
+    {
+      "id": "left-adrenal",
+      "fma": "FMA15630",
+      "sourceName": "left adrenal gland",
+      "sources": [
+        {
+          "element": "FMA15630",
+          "sha256": "b13f1d7441cbada25aeb9b076e72f9ed26f2b64d1907c9be24ec7f1c95ea90b8",
+          "bytes": 989484,
+          "vertices": 9896,
+          "triangles": 19788
+        }
+      ]
+    }
+  ]
+}
