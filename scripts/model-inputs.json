@@ -1,0 +1,52 @@
+[
+  {
+    "file": "parts_list_e.txt",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/parts_list_e.txt",
+    "sha256": "824a34ed939a53375037d0d68b88ad2b63b1f0ae15a585632af2a63c2ab2e4af"
+  },
+  {
+    "file": "FMA7196.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7196.stl",
+    "sha256": "72c0248b1e35490c66a0d0bde0ecdde6a362f3940a5bb6d3e770718ff5eeb94a"
+  },
+  {
+    "file": "FMA14773.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA14773.stl",
+    "sha256": "dff6e8f727071fbb75e2faa6d738f67c1b95117a5c7fb1ad3deb65eaa681ea14"
+  },
+  {
+    "file": "FMA14331.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA14331.stl",
+    "sha256": "101efccfdb587cf27fb4e721e44ea5af182dd0ad012750266a74044aca018e6a"
+  },
+  {
+    "file": "FMA50737.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA50737.stl",
+    "sha256": "d48e9dea1d611eef116062144e4078c274909695e90c0619262fbc83e9ab162c"
+  },
+  {
+    "file": "FMA14332.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA14332.stl",
+    "sha256": "695e872141ce8fd560246ef8c351268d4987cda2ac46df4a6d37b38183936e94"
+  },
+  {
+    "file": "FMA7148.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7148.stl",
+    "sha256": "a6764d20879cf7ba1acd8284c1b0255b20111d8bd3b92838cf97600e6f3d9065"
+  },
+  {
+    "file": "FMA7198nsn.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7198nsn.stl",
+    "sha256": "884948a0b7f2b274dd67ede43fd1d0aaacc6657451ff0de7eeb0063d261fa4ca"
+  },
+  {
+    "file": "FMA7205.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA7205.stl",
+    "sha256": "b93be6a9ef9fa237bb1231b5c895cd938b25920266bb1400537b4319f4a35cdb"
+  },
+  {
+    "file": "FMA15630.stl",
+    "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA15630.stl",
+    "sha256": "b13f1d7441cbada25aeb9b076e72f9ed26f2b64d1907c9be24ec7f1c95ea90b8"
+  }
+]
